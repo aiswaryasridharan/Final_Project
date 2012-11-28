@@ -1,0 +1,1833 @@
+# Logfile created on Sat Nov 03 19:49:08 -0400 2012DEPRECATION WARNING: Kernel#returning has been deprecated in favor of Object#tap. (called from enable_activerecord at C:/Users/Uttara/Desktop/ools/projects/Final project/expertiza/vendor/plugins/will_paginate/lib/will_paginate.rb:39)
+** [Hoptoad] Notifier 2.4.11 ready to catch errors
+DEPRECATION WARNING: Kernel#returning has been deprecated in favor of Object#tap. (called from enable_activerecord at C:/Users/Uttara/Desktop/ools/projects/Final project/expertiza/vendor/plugins/will_paginate/lib/will_paginate.rb:39)
+** [Hoptoad] Notifier 2.4.11 ready to catch errors
+Migrating to InitializeGoldberg (1)
+Migrating to InitializeCustom (2)
+Migrating to CreateGoldbergUsers (3)
+Migrating to CreateUsers (4)
+Migrating to CreateDeadlineRights (5)
+Migrating to CreateDeadlineTypes (6)
+Migrating to CreateLatePolicies (7)
+Migrating to CreateWikiTypes (8)
+Migrating to CreateQuestionnaireTypes (9)
+Migrating to CreateMappingStrategies (10)
+Migrating to CreateReviewStrategies (11)
+Migrating to CreateCourses (12)
+Migrating to CreateCoursesUsers (13)
+Migrating to CreateQuestionnaires (14)
+Migrating to CreateQuestions (15)
+Migrating to CreateQuestionAdvices (16)
+Migrating to CreateAssignments (17)
+Migrating to CreateTeams (18)
+Migrating to CreateTeamsUsers (19)
+Migrating to CreateReviewMappings (20)
+Migrating to CreateReviews (21)
+Migrating to CreateReviewOfReviewMappings (22)
+Migrating to CreateSurveyResponses (23)
+Migrating to CreateReviewFeedbacks (24)
+Migrating to CreateAssignmentsQuestionnaires (25)
+Migrating to CreateReviewScores (26)
+Migrating to CreateReviewOfReviews (27)
+Migrating to CreateReviewOfReviewScores (28)
+Migrating to CreateParticipants (29)
+Migrating to CreateResubmissionTimes (30)
+Migrating to CreateDueDates (31)
+Migrating to AuthorFeedback (32)
+Migrating to DueDateRounds (33)
+Migrating to CreateSurveyDeployments (34)
+Migrating to AddSurveyDeployment (35)
+Migrating to CreateSurveyParticipants (36)
+Migrating to CreateTaMappings (37)
+Migrating to UpdateReviewMappings (38)
+Migrating to UpdateReviewScores (39)
+Migrating to UpdateReviewFeedbacks (40)
+Migrating to DowncasePermissions (41)
+Migrating to CreateInvitationTable (42)
+Migrating to UpdateReviewOfReviewMappings (43)
+Migrating to MenuUpdateUsers (44)
+Migrating to MenuUpdateImpersonate (45)
+Migrating to MenuUpdateImportFile (46)
+Migrating to MenuUpdateReviewMapping (47)
+Migrating to MenuUpdateGrades (48)
+Migrating to MenuUpdateCourseEvaluation (49)
+Migrating to MenuUpdateTeamList (50)
+Migrating to MenuUpdateParticipantChoices (51)
+Migrating to UpdateParticipants (52)
+Migrating to CreateNodes (53)
+Migrating to CreateTreeFolders (54)
+Migrating to CreateFolderNodes (55)
+Migrating to CreateQuestionnaireTypeNodes (56)
+Migrating to CreateQuestionnaireNodes (57)
+Migrating to CreateAssignmentNodes (58)
+Migrating to CreateCourseNodes (59)
+Migrating to MenuUpdateTreeDisplay (60)
+Migrating to ControllerUpdateCoursesUsers (61)
+Migrating to UpdateCourses (62)
+Migrating to CreateTaRole (63)
+Migrating to UpdateTeamsForCourse (64)
+Migrating to CreateTeamNodes (65)
+Migrating to CreateTeamUserNodes (66)
+Migrating to UpdateParticipantTypes (67)
+Migrating to CreateComments (68)
+Migrating to MoveFiles (69)
+Migrating to CreatePeerReviews (70)
+Migrating to CreatePeerReviewScores (71)
+Migrating to AddUnknownControllers (72)
+Migrating to RemoveMissingControllers (73)
+Migrating to UpdateAssignmentsForInvitations (74)
+Migrating to ControllerUpdatePasswords (75)
+Migrating to UpdateMenus (76)
+Migrating to Repl0ValsInAuthFb (77)
+Migrating to RenamePeerReviewQuestionnaireIdToTeammateQuestionnaireIdInAssignments (78)
+Migrating to RenamePeerReviews (79)
+Migrating to CorrectQuestionnaireTypeInReviewScores (80)
+Migrating to CreateScores (81)
+Migrating to AddNewQuestionnaireTypes (82)
+Migrating to RelocateToScoresTable (83)
+Migrating to AddNewMappingStrategy (84)
+Migrating to UpdateControllersTeammateReview (85)
+Migrating to CreateNotifications (86)
+Migrating to CreateQuestionnaireWeights (87)
+Migrating to UpdateCustom (88)
+Migrating to AddHandleToUsers (89)
+Migrating to AddHandleToParticipants (90)
+Migrating to AddTimeStampToFeedback (91)
+Migrating to AddChangeHandleAction (92)
+Migrating to AddReviewerIdToReviewOfReviewMappings (93)
+Migrating to RemoveFieldsFromFeedback (94)
+Migrating to RemoveAdditionalFeedback (95)
+Migrating to CreateTeammateReviewMappings (96)
+Migrating to CreateFeedbackMappings (97)
+Migrating to StandardizeReviewOfReview (98)
+Migrating to StandardizeReviewOfReviewMappings (99)
+Migrating to UpdateControllersStudentTask (100)
+Migrating to StandardizeReviews (101)
+Migrating to StandardizeReviewMappings (102)
+Migrating to UpdateQuestionnaireMenus (103)
+Migrating to UpdateRubricTypes (104)
+Migrating to UpdateControllersPublishing (105)
+Migrating to UpdateControllerForExport (106)
+Migrating to MergeQuestionnaireAndType (107)
+Migrating to CreateQuestionnaireFolderNodes (108)
+Migrating to CleanupAssignmentIndices (109)
+Migrating to CreateAssignmentQuestionnaires (110)
+Migrating to AddActionGradesViewMyScores (111)
+Migrating to CreateResponseMaps (112)
+Migrating to CleanUpQuestionnaires (113)
+Migrating to UpdateControllersForResponse (114)
+Migrating to CreateScoreCaches (115)
+Migrating to CreateSignUpTopics (116)
+Migrating to CreateSignedUpUsers (117)
+Migrating to UpdateAssignments (118)
+Migrating to CreateTopicDependencies (119)
+Migrating to SetPermissionsForSignupSheet (120)
+Migrating to CreateSuggestions (121)
+Migrating to CreateSuggestionComments (122)
+Migrating to AddColumnAllowSuggestionsToAssignments (123)
+Migrating to SetPermissionForSuggestion (124)
+Migrating to AddFlagThreToDueDates (125)
+Migrating to UpdateCache (126)
+Migrating to AddLeaderboardPrivacyToUser (127)
+Migrating to CreateLeaderboards (128)
+Migrating to MenuUpdateLeaderboard (129)
+Migrating to AddPopupPermission (130)
+Migrating to RenameFieldsInAssignments (131)
+Migrating to UpdateFieldsInSignUpTopics (132)
+Migrating to AddTopicIdToParticipants (133)
+Migrating to CreateTopicDeadlines (134)
+Migrating to CreateSessions (135)
+Migrating to UpdateMenuImpersonateRevert (20100920141223)
+Migrating to UpdateMenuDeleteObject (20101001183244)
+Migrating to DigitalSignature (20101018010541)
+Migrating to SetPermissionForUserKeys (20101018010542)
+Migrating to AddPotentialResponseDeadlineToResponseMaps (20101116184601)
+Migrating to AddDynamicReviewFieldsToAssignments (20101116184602)
+Migrating to PermissionForAddDynamicReviewerAction (20101117031216)
+Migrating to AddPersistenceTokenToUser (20101128192024)
+Migrating to AddSelfSelectedReviewFields (20101205034327)
+Migrating to UpdateReviewFields (20101214034327)
+Migrating to AddNotificationAcceptedToResponseMap (20101222143748)
+Migrating to SubmitMultipleHyperlinks (20110205220301)
+Migrating to RemoveDynamicReviewerAssignmentsEnabledFromAssignments (20110210160753)
+Migrating to RemoveTopicFromParticipants (20110304054311)
+Migrating to DropReviewAndMappingStrategies (20110323134426)
+Migrating to PermissionForReviewMapping (20110324001445)
+Migrating to PermissionForMetareviewAssignment (20110407154154)
+Migrating to CreateDropDueDate (20110408190423)
+Migrating to TopicReviewThreshold (20110410232719)
+Migrating to RenameDropTopic (20110512155258)
+Migrating to DropGoldbergTables (20111025015938)
+Migrating to CreateJoinTeamRequests (20111122004351)
+Migrating to AddCommentsAdvertiseForPartnersToTeam (20111122004447)
+Migrating to FixTeamColNameComment (20111124232053)
+Migrating to CreateReviewFiles (20111127035024)
+Migrating to CreateReviewComments (20111127035200)
+Migrating to CreateQuestionTypes (20111129215405)
+Migrating to AddSectionColumnToQuestionnaires (20111129232252)
+Migrating to AddAvailabilityFlagToAssignments (20111130230523)
+Migrating to AddInstructionLocToQuestionnaire (20111201222103)
+Migrating to PermissionForAdvertiseForPartners (20111217162506)
+DEPRECATION WARNING: Kernel#returning has been deprecated in favor of Object#tap. (called from enable_activerecord at C:/Users/Uttara/Desktop/ools/projects/Final project/expertiza/vendor/plugins/will_paginate/lib/will_paginate.rb:39)
+** [Hoptoad] Notifier 2.4.11 ready to catch errors
+DEPRECATION WARNING: Kernel#returning has been deprecated in favor of Object#tap. (called from enable_activerecord at C:/Users/Uttara/Desktop/ools/projects/Final project/expertiza/vendor/plugins/will_paginate/lib/will_paginate.rb:39)
+** [Hoptoad] Notifier 2.4.11 ready to catch errors
+Migrating to InitializeGoldberg (1)
+Migrating to InitializeCustom (2)
+Migrating to CreateGoldbergUsers (3)
+Migrating to CreateUsers (4)
+Migrating to CreateDeadlineRights (5)
+Migrating to CreateDeadlineTypes (6)
+Migrating to CreateLatePolicies (7)
+Migrating to CreateWikiTypes (8)
+Migrating to CreateQuestionnaireTypes (9)
+Migrating to CreateMappingStrategies (10)
+Migrating to CreateReviewStrategies (11)
+Migrating to CreateCourses (12)
+Migrating to CreateCoursesUsers (13)
+Migrating to CreateQuestionnaires (14)
+Migrating to CreateQuestions (15)
+Migrating to CreateQuestionAdvices (16)
+Migrating to CreateAssignments (17)
+Migrating to CreateTeams (18)
+Migrating to CreateTeamsUsers (19)
+Migrating to CreateReviewMappings (20)
+Migrating to CreateReviews (21)
+Migrating to CreateReviewOfReviewMappings (22)
+Migrating to CreateSurveyResponses (23)
+Migrating to CreateReviewFeedbacks (24)
+Migrating to CreateAssignmentsQuestionnaires (25)
+Migrating to CreateReviewScores (26)
+Migrating to CreateReviewOfReviews (27)
+Migrating to CreateReviewOfReviewScores (28)
+Migrating to CreateParticipants (29)
+Migrating to CreateResubmissionTimes (30)
+Migrating to CreateDueDates (31)
+Migrating to AuthorFeedback (32)
+Migrating to DueDateRounds (33)
+Migrating to CreateSurveyDeployments (34)
+Migrating to AddSurveyDeployment (35)
+Migrating to CreateSurveyParticipants (36)
+Migrating to CreateTaMappings (37)
+Migrating to UpdateReviewMappings (38)
+Migrating to UpdateReviewScores (39)
+Migrating to UpdateReviewFeedbacks (40)
+Migrating to DowncasePermissions (41)
+Migrating to CreateInvitationTable (42)
+Migrating to UpdateReviewOfReviewMappings (43)
+Migrating to MenuUpdateUsers (44)
+Migrating to MenuUpdateImpersonate (45)
+Migrating to MenuUpdateImportFile (46)
+Migrating to MenuUpdateReviewMapping (47)
+Migrating to MenuUpdateGrades (48)
+Migrating to MenuUpdateCourseEvaluation (49)
+Migrating to MenuUpdateTeamList (50)
+Migrating to MenuUpdateParticipantChoices (51)
+Migrating to UpdateParticipants (52)
+Migrating to CreateNodes (53)
+Migrating to CreateTreeFolders (54)
+Migrating to CreateFolderNodes (55)
+Migrating to CreateQuestionnaireTypeNodes (56)
+Migrating to CreateQuestionnaireNodes (57)
+Migrating to CreateAssignmentNodes (58)
+Migrating to CreateCourseNodes (59)
+Migrating to MenuUpdateTreeDisplay (60)
+Migrating to ControllerUpdateCoursesUsers (61)
+Migrating to UpdateCourses (62)
+Migrating to CreateTaRole (63)
+Migrating to UpdateTeamsForCourse (64)
+Migrating to CreateTeamNodes (65)
+Migrating to CreateTeamUserNodes (66)
+Migrating to UpdateParticipantTypes (67)
+Migrating to CreateComments (68)
+Migrating to MoveFiles (69)
+Migrating to CreatePeerReviews (70)
+Migrating to CreatePeerReviewScores (71)
+Migrating to AddUnknownControllers (72)
+Migrating to RemoveMissingControllers (73)
+Migrating to UpdateAssignmentsForInvitations (74)
+Migrating to ControllerUpdatePasswords (75)
+Migrating to UpdateMenus (76)
+Migrating to Repl0ValsInAuthFb (77)
+Migrating to RenamePeerReviewQuestionnaireIdToTeammateQuestionnaireIdInAssignments (78)
+Migrating to RenamePeerReviews (79)
+Migrating to CorrectQuestionnaireTypeInReviewScores (80)
+Migrating to CreateScores (81)
+Migrating to AddNewQuestionnaireTypes (82)
+Migrating to RelocateToScoresTable (83)
+Migrating to AddNewMappingStrategy (84)
+Migrating to UpdateControllersTeammateReview (85)
+Migrating to CreateNotifications (86)
+Migrating to CreateQuestionnaireWeights (87)
+Migrating to UpdateCustom (88)
+Migrating to AddHandleToUsers (89)
+Migrating to AddHandleToParticipants (90)
+Migrating to AddTimeStampToFeedback (91)
+Migrating to AddChangeHandleAction (92)
+Migrating to AddReviewerIdToReviewOfReviewMappings (93)
+Migrating to RemoveFieldsFromFeedback (94)
+Migrating to RemoveAdditionalFeedback (95)
+Migrating to CreateTeammateReviewMappings (96)
+Migrating to CreateFeedbackMappings (97)
+Migrating to StandardizeReviewOfReview (98)
+Migrating to StandardizeReviewOfReviewMappings (99)
+Migrating to UpdateControllersStudentTask (100)
+Migrating to StandardizeReviews (101)
+Migrating to StandardizeReviewMappings (102)
+Migrating to UpdateQuestionnaireMenus (103)
+Migrating to UpdateRubricTypes (104)
+Migrating to UpdateControllersPublishing (105)
+Migrating to UpdateControllerForExport (106)
+Migrating to MergeQuestionnaireAndType (107)
+Migrating to CreateQuestionnaireFolderNodes (108)
+Migrating to CleanupAssignmentIndices (109)
+Migrating to CreateAssignmentQuestionnaires (110)
+Migrating to AddActionGradesViewMyScores (111)
+Migrating to CreateResponseMaps (112)
+Migrating to CleanUpQuestionnaires (113)
+Migrating to UpdateControllersForResponse (114)
+Migrating to CreateScoreCaches (115)
+Migrating to CreateSignUpTopics (116)
+Migrating to CreateSignedUpUsers (117)
+Migrating to UpdateAssignments (118)
+Migrating to CreateTopicDependencies (119)
+Migrating to SetPermissionsForSignupSheet (120)
+Migrating to CreateSuggestions (121)
+Migrating to CreateSuggestionComments (122)
+Migrating to AddColumnAllowSuggestionsToAssignments (123)
+Migrating to SetPermissionForSuggestion (124)
+Migrating to AddFlagThreToDueDates (125)
+Migrating to UpdateCache (126)
+Migrating to AddLeaderboardPrivacyToUser (127)
+Migrating to CreateLeaderboards (128)
+Migrating to MenuUpdateLeaderboard (129)
+Migrating to AddPopupPermission (130)
+Migrating to RenameFieldsInAssignments (131)
+Migrating to UpdateFieldsInSignUpTopics (132)
+Migrating to AddTopicIdToParticipants (133)
+Migrating to CreateTopicDeadlines (134)
+Migrating to CreateSessions (135)
+Migrating to UpdateMenuImpersonateRevert (20100920141223)
+Migrating to UpdateMenuDeleteObject (20101001183244)
+Migrating to DigitalSignature (20101018010541)
+Migrating to SetPermissionForUserKeys (20101018010542)
+Migrating to AddPotentialResponseDeadlineToResponseMaps (20101116184601)
+Migrating to AddDynamicReviewFieldsToAssignments (20101116184602)
+Migrating to PermissionForAddDynamicReviewerAction (20101117031216)
+Migrating to AddPersistenceTokenToUser (20101128192024)
+Migrating to AddSelfSelectedReviewFields (20101205034327)
+Migrating to UpdateReviewFields (20101214034327)
+Migrating to AddNotificationAcceptedToResponseMap (20101222143748)
+Migrating to SubmitMultipleHyperlinks (20110205220301)
+Migrating to RemoveDynamicReviewerAssignmentsEnabledFromAssignments (20110210160753)
+Migrating to RemoveTopicFromParticipants (20110304054311)
+Migrating to DropReviewAndMappingStrategies (20110323134426)
+Migrating to PermissionForReviewMapping (20110324001445)
+Migrating to PermissionForMetareviewAssignment (20110407154154)
+Migrating to CreateDropDueDate (20110408190423)
+Migrating to TopicReviewThreshold (20110410232719)
+Migrating to RenameDropTopic (20110512155258)
+Migrating to DropGoldbergTables (20111025015938)
+Migrating to CreateJoinTeamRequests (20111122004351)
+Migrating to AddCommentsAdvertiseForPartnersToTeam (20111122004447)
+Migrating to FixTeamColNameComment (20111124232053)
+Migrating to CreateReviewFiles (20111127035024)
+Migrating to CreateReviewComments (20111127035200)
+Migrating to CreateQuestionTypes (20111129215405)
+Migrating to AddSectionColumnToQuestionnaires (20111129232252)
+Migrating to AddAvailabilityFlagToAssignments (20111130230523)
+Migrating to AddInstructionLocToQuestionnaire (20111201222103)
+Migrating to PermissionForAdvertiseForPartners (20111217162506)
+DEPRECATION WARNING: Kernel#returning has been deprecated in favor of Object#tap. (called from enable_activerecord at C:/Users/Uttara/Desktop/ools/projects/Final project/expertiza/vendor/plugins/will_paginate/lib/will_paginate.rb:39)
+** [Hoptoad] Notifier 2.4.11 ready to catch errors
+
+
+Processing ContentPagesController#view_default (for 127.0.0.1 at 2012-11-03 19:55:54) [GET]
+  Parameters: {"action"=>"view_default", "controller"=>"content_pages"}
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view_default
+Completed in 9332ms (View: 143, DB: 39) | 200 OK [http://localhost/]
+
+
+Processing AuthController#login (for 127.0.0.1 at 2012-11-03 19:56:11) [POST]
+  Parameters: {"commit"=>"Login", "action"=>"login", "authenticity_token"=>"UTb6XRT10d9iyNJV4SZ2flYVub37GUSIbcc3wV3k8eY=", "controller"=>"auth", "login"=>{"name"=>"admin", "password"=>"[FILTERED]"}}
+(Role still current)
+Action: authorised
+Authorised? true
+User admin successfully logged in
+Logging in user as role Credentials
+Redirected to http://localhost:3000/tree_display/drill
+Completed in 196ms (DB: 81) | 302 Found [http://localhost/auth/login]
+
+
+Processing TreeDisplayController#drill (for 127.0.0.1 at 2012-11-03 19:56:12) [GET]
+  Parameters: {"action"=>"drill", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/list
+Completed in 130ms (DB: 34) | 302 Found [http://localhost/tree_display/drill]
+
+
+Processing TreeDisplayController#list (for 127.0.0.1 at 2012-11-03 19:56:12) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 476ms (View: 263, DB: 137) | 200 OK [http://localhost/tree_display/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:01:26) [GET]
+  Parameters: {"name"=>["student_task"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/student_task/list
+Completed in 91ms (DB: 40) | 302 Found [http://localhost/menu/student_task]
+
+
+Processing StudentTaskController#list (for 127.0.0.1 at 2012-11-03 20:01:26) [GET]
+  Parameters: {"action"=>"list", "controller"=>"student_task"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering student_task/list
+Completed in 415ms (View: 17, DB: 58) | 200 OK [http://localhost/student_task/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:01:31) [GET]
+  Parameters: {"name"=>["home"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/home
+Completed in 92ms (DB: 38) | 302 Found [http://localhost/menu/home]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:01:33) [GET]
+  Parameters: {"name"=>["admin"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/site_admin
+Completed in 139ms (DB: 39) | 302 Found [http://localhost/menu/admin]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:01:33) [GET]
+  Parameters: {"name"=>["manage instructor content"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/drill
+Completed in 97ms (DB: 40) | 302 Found [http://localhost/menu/manage%20instructor%20content]
+
+
+Processing TreeDisplayController#drill (for 127.0.0.1 at 2012-11-03 20:01:33) [GET]
+  Parameters: {"action"=>"drill", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/list
+Completed in 97ms (DB: 36) | 302 Found [http://localhost/tree_display/drill]
+
+
+Processing TreeDisplayController#list (for 127.0.0.1 at 2012-11-03 20:01:33) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 448ms (View: 177, DB: 149) | 200 OK [http://localhost/tree_display/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:01:34) [GET]
+  Parameters: {"name"=>["Survey Deployments"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/survey_deployment/list
+Completed in 87ms (DB: 35) | 302 Found [http://localhost/menu/Survey%20Deployments]
+
+
+Processing SurveyDeploymentController#list (for 127.0.0.1 at 2012-11-03 20:01:34) [GET]
+  Parameters: {"action"=>"list", "controller"=>"survey_deployment"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering survey_deployment/list
+Completed in 162ms (View: 18, DB: 34) | 200 OK [http://localhost/survey_deployment/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:01:34) [GET]
+  Parameters: {"name"=>["Statistical Test"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/statistics/list_surveys
+Completed in 94ms (DB: 35) | 302 Found [http://localhost/menu/Statistical%20Test]
+
+
+Processing StatisticsController#list_surveys (for 127.0.0.1 at 2012-11-03 20:01:35) [GET]
+  Parameters: {"action"=>"list_surveys", "controller"=>"statistics"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+
+NoMethodError (undefined method `find_all_by_type_id' for #<Class:0xd541fd0>):
+  app/controllers/statistics_controller.rb:3:in `list_surveys'
+  C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/rack.rb:27:in `call'
+  C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/user_informer.rb:12:in `call'
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:01:37) [GET]
+  Parameters: {"name"=>["Survey Deployments"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/survey_deployment/list
+Completed in 90ms (DB: 37) | 302 Found [http://localhost/menu/Survey%20Deployments]
+
+
+Processing SurveyDeploymentController#list (for 127.0.0.1 at 2012-11-03 20:01:37) [GET]
+  Parameters: {"action"=>"list", "controller"=>"survey_deployment"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering survey_deployment/list
+Completed in 153ms (View: 14, DB: 34) | 200 OK [http://localhost/survey_deployment/list]
+
+
+Processing SurveyDeploymentController#reminder_thread (for 127.0.0.1 at 2012-11-03 20:01:46) [GET]
+  Parameters: {"action"=>"reminder_thread", "controller"=>"survey_deployment"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+
+NameError (uninitialized constant SurveyDeploymentController::MiddleMan):
+  app/controllers/survey_deployment_controller.rb:67:in `reminder_thread'
+  C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/rack.rb:27:in `call'
+  C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/user_informer.rb:12:in `call'
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SurveyDeploymentController#new (for 127.0.0.1 at 2012-11-03 20:01:49) [GET]
+  Parameters: {"action"=>"new", "controller"=>"survey_deployment"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of ActiveRecord::Base.
+The error occurred while evaluating nil.[]):
+  app/controllers/survey_deployment_controller.rb:8:in `new'
+  C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/rack.rb:27:in `call'
+  C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/user_informer.rb:12:in `call'
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:22:32) [GET]
+  Parameters: {"name"=>["Statistical Test"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/statistics/list_surveys
+Completed in 136ms (DB: 35) | 302 Found [http://localhost/menu/Statistical%20Test]
+
+
+Processing StatisticsController#list_surveys (for 127.0.0.1 at 2012-11-03 20:22:32) [GET]
+  Parameters: {"action"=>"list_surveys", "controller"=>"statistics"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+
+NoMethodError (undefined method `find_all_by_type_id' for #<Class:0xd6a73a8>):
+  app/controllers/statistics_controller.rb:3:in `list_surveys'
+  C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/rack.rb:27:in `call'
+  C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/user_informer.rb:12:in `call'
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:24:39) [GET]
+  Parameters: {"name"=>["home"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/home
+Completed in 135ms (DB: 39) | 302 Found [http://localhost/menu/home]
+
+
+Processing ContentPagesController#view (for 127.0.0.1 at 2012-11-03 20:24:39) [GET]
+  Parameters: {"action"=>"view", "page_name"=>["home"], "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Page: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view
+Completed in 150ms (View: 19, DB: 40) | 200 OK [http://localhost/home]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:44:45) [GET]
+  Parameters: {"name"=>["manage", "users"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/users/list
+Completed in 138ms (DB: 41) | 302 Found [http://localhost/menu/manage/users]
+
+
+Processing UsersController#list (for 127.0.0.1 at 2012-11-03 20:44:45) [GET]
+  Parameters: {"action"=>"list", "controller"=>"users"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+a
+Rendering template within layouts/application
+Rendering users/list
+Completed in 131ms (View: 38, DB: 34) | 200 OK [http://localhost/users/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:44:51) [GET]
+  Parameters: {"name"=>["manage instructor content"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/drill
+Completed in 134ms (DB: 35) | 302 Found [http://localhost/menu/manage%20instructor%20content]
+
+
+Processing TreeDisplayController#drill (for 127.0.0.1 at 2012-11-03 20:44:51) [GET]
+  Parameters: {"action"=>"drill", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/list
+Completed in 89ms (DB: 33) | 302 Found [http://localhost/tree_display/drill]
+
+
+Processing TreeDisplayController#list (for 127.0.0.1 at 2012-11-03 20:44:51) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 443ms (View: 214, DB: 145) | 200 OK [http://localhost/tree_display/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:44:54) [GET]
+  Parameters: {"name"=>["admin"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/site_admin
+Completed in 91ms (DB: 39) | 302 Found [http://localhost/menu/admin]
+
+
+Processing ContentPagesController#view (for 127.0.0.1 at 2012-11-03 20:44:54) [GET]
+  Parameters: {"action"=>"view", "page_name"=>["site_admin"], "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Page: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view
+Completed in 199ms (View: 62, DB: 45) | 200 OK [http://localhost/site_admin]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:44:56) [GET]
+  Parameters: {"name"=>["profile"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/profile/edit
+Completed in 91ms (DB: 38) | 302 Found [http://localhost/menu/profile]
+
+
+Processing ProfileController#edit (for 127.0.0.1 at 2012-11-03 20:44:57) [GET]
+  Parameters: {"action"=>"edit", "controller"=>"profile"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering profile/edit
+Completed in 195ms (View: 93, DB: 37) | 200 OK [http://localhost/profile/edit]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:44:59) [GET]
+  Parameters: {"name"=>["credits"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/credits
+Completed in 91ms (DB: 36) | 302 Found [http://localhost/menu/credits]
+
+
+Processing ContentPagesController#view (for 127.0.0.1 at 2012-11-03 20:45:00) [GET]
+  Parameters: {"action"=>"view", "page_name"=>["credits"], "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Page: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view
+Completed in 147ms (View: 14, DB: 43) | 200 OK [http://localhost/credits]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:48:08) [GET]
+  Parameters: {"name"=>["home"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/home
+Completed in 93ms (DB: 36) | 302 Found [http://localhost/menu/home]
+
+
+Processing ContentPagesController#view (for 127.0.0.1 at 2012-11-03 20:48:09) [GET]
+  Parameters: {"action"=>"view", "page_name"=>["home"], "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Page: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view
+Completed in 145ms (View: 15, DB: 47) | 200 OK [http://localhost/home]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:48:11) [GET]
+  Parameters: {"name"=>["Statistical Test"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/statistics/list_surveys
+Completed in 135ms (DB: 36) | 302 Found [http://localhost/menu/Statistical%20Test]
+
+
+Processing StatisticsController#list_surveys (for 127.0.0.1 at 2012-11-03 20:48:11) [GET]
+  Parameters: {"action"=>"list_surveys", "controller"=>"statistics"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+
+NoMethodError (undefined method `find_all_by_type_id' for #<Class:0xd642d40>):
+  app/controllers/statistics_controller.rb:3:in `list_surveys'
+  C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/rack.rb:27:in `call'
+  C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/user_informer.rb:12:in `call'
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:48:14) [GET]
+  Parameters: {"name"=>["profile"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/profile/edit
+Completed in 100ms (DB: 40) | 302 Found [http://localhost/menu/profile]
+
+
+Processing ProfileController#edit (for 127.0.0.1 at 2012-11-03 20:48:14) [GET]
+  Parameters: {"action"=>"edit", "controller"=>"profile"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering profile/edit
+Completed in 122ms (View: 21, DB: 37) | 200 OK [http://localhost/profile/edit]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:48:19) [GET]
+  Parameters: {"name"=>["manage", "courses"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/goto_courses
+Completed in 135ms (DB: 35) | 302 Found [http://localhost/menu/manage/courses]
+
+
+Processing TreeDisplayController#goto_courses (for 127.0.0.1 at 2012-11-03 20:48:19) [GET]
+  Parameters: {"action"=>"goto_courses", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/list
+Completed in 129ms (DB: 54) | 302 Found [http://localhost/tree_display/goto_courses]
+
+
+Processing TreeDisplayController#list (for 127.0.0.1 at 2012-11-03 20:48:19) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 217ms (View: 13, DB: 79) | 200 OK [http://localhost/tree_display/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:48:41) [GET]
+  Parameters: {"name"=>["student_task"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/student_task/list
+Completed in 89ms (DB: 38) | 302 Found [http://localhost/menu/student_task]
+
+
+Processing StudentTaskController#list (for 127.0.0.1 at 2012-11-03 20:48:41) [GET]
+  Parameters: {"action"=>"list", "controller"=>"student_task"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering student_task/list
+Completed in 238ms (View: 12, DB: 52) | 200 OK [http://localhost/student_task/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:48:45) [GET]
+  Parameters: {"name"=>["contact_us"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/contact_us
+Completed in 90ms (DB: 39) | 302 Found [http://localhost/menu/contact_us]
+
+
+Processing ContentPagesController#view (for 127.0.0.1 at 2012-11-03 20:48:45) [GET]
+  Parameters: {"action"=>"view", "page_name"=>["contact_us"], "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Page: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view
+Completed in 184ms (View: 14, DB: 45) | 200 OK [http://localhost/contact_us]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:48:49) [GET]
+  Parameters: {"name"=>["profile"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/profile/edit
+Completed in 90ms (DB: 38) | 302 Found [http://localhost/menu/profile]
+
+
+Processing ProfileController#edit (for 127.0.0.1 at 2012-11-03 20:48:49) [GET]
+  Parameters: {"action"=>"edit", "controller"=>"profile"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering profile/edit
+Completed in 115ms (View: 18, DB: 31) | 200 OK [http://localhost/profile/edit]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 20:49:52) [GET]
+  Parameters: {"name"=>["manage", "questionnaires", "review rubrics"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/goto_review_rubrics
+Completed in 91ms (DB: 35) | 302 Found [http://localhost/menu/manage/questionnaires/review%20rubrics]
+
+
+Processing TreeDisplayController#goto_review_rubrics (for 127.0.0.1 at 2012-11-03 20:49:52) [GET]
+  Parameters: {"action"=>"goto_review_rubrics", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/list
+Completed in 131ms (DB: 51) | 302 Found [http://localhost/tree_display/goto_review_rubrics]
+
+
+Processing TreeDisplayController#list (for 127.0.0.1 at 2012-11-03 20:49:52) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 237ms (View: 13, DB: 94) | 200 OK [http://localhost/tree_display/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:07:58) [GET]
+  Parameters: {"name"=>["manage", "assignments"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/goto_assignments
+Completed in 91ms (DB: 37) | 302 Found [http://localhost/menu/manage/assignments]
+
+
+Processing TreeDisplayController#goto_assignments (for 127.0.0.1 at 2012-11-03 21:07:58) [GET]
+  Parameters: {"action"=>"goto_assignments", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/list
+Completed in 167ms (DB: 47) | 302 Found [http://localhost/tree_display/goto_assignments]
+
+
+Processing TreeDisplayController#list (for 127.0.0.1 at 2012-11-03 21:07:58) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 202ms (View: 13, DB: 81) | 200 OK [http://localhost/tree_display/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:20:46) [GET]
+  Parameters: {"name"=>["student_task"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/student_task/list
+Completed in 92ms (DB: 39) | 302 Found [http://localhost/menu/student_task]
+
+
+Processing StudentTaskController#list (for 127.0.0.1 at 2012-11-03 21:20:46) [GET]
+  Parameters: {"action"=>"list", "controller"=>"student_task"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering student_task/list
+Completed in 245ms (View: 12, DB: 62) | 200 OK [http://localhost/student_task/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:20:53) [GET]
+  Parameters: {"name"=>["setup", "roles"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/roles/list
+Completed in 91ms (DB: 38) | 302 Found [http://localhost/menu/setup/roles]
+
+
+Processing RolesController#list (for 127.0.0.1 at 2012-11-03 21:20:54) [GET]
+  Parameters: {"action"=>"list", "controller"=>"roles"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering roles/list
+Completed in 152ms (View: 22, DB: 39) | 200 OK [http://localhost/roles/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:20:57) [GET]
+  Parameters: {"name"=>["setup", "permissions"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/permissions/list
+Completed in 89ms (DB: 38) | 302 Found [http://localhost/menu/setup/permissions]
+
+
+Processing PermissionsController#list (for 127.0.0.1 at 2012-11-03 21:20:57) [GET]
+  Parameters: {"action"=>"list", "controller"=>"permissions"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering permissions/list
+Completed in 170ms (View: 20, DB: 39) | 200 OK [http://localhost/permissions/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:21:00) [GET]
+  Parameters: {"name"=>["setup", "pages"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/content_pages/list
+Completed in 95ms (DB: 39) | 302 Found [http://localhost/menu/setup/pages]
+
+
+Processing ContentPagesController#list (for 127.0.0.1 at 2012-11-03 21:21:01) [GET]
+  Parameters: {"action"=>"list", "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/list
+Completed in 192ms (View: 63, DB: 46) | 200 OK [http://localhost/content_pages/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:21:04) [GET]
+  Parameters: {"name"=>["show", "super-administrators"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/admin/list_super_administrators
+Completed in 89ms (DB: 35) | 302 Found [http://localhost/menu/show/super-administrators]
+
+
+Processing AdminController#list_super_administrators (for 127.0.0.1 at 2012-11-03 21:21:04) [GET]
+  Parameters: {"action"=>"list_super_administrators", "controller"=>"admin"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering admin/list_super_administrators
+Completed in 111ms (View: 20, DB: 33) | 200 OK [http://localhost/admin/list_super_administrators]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:21:06) [GET]
+  Parameters: {"name"=>["setup", "system_settings"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/system_settings/list
+Completed in 90ms (DB: 35) | 302 Found [http://localhost/menu/setup/system_settings]
+
+
+Processing SystemSettingsController#list (for 127.0.0.1 at 2012-11-03 21:21:07) [GET]
+  Parameters: {"action"=>"list", "controller"=>"system_settings"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/system_settings/show/1
+Completed in 95ms (DB: 35) | 302 Found [http://localhost/system_settings/list]
+
+
+Processing SystemSettingsController#show (for 127.0.0.1 at 2012-11-03 21:21:07) [GET]
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"system_settings"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering system_settings/show
+Completed in 203ms (View: 22, DB: 53) | 200 OK [http://localhost/system_settings/show/1]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:21:10) [GET]
+  Parameters: {"name"=>["setup", "pages"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/content_pages/list
+Completed in 89ms (DB: 34) | 302 Found [http://localhost/menu/setup/pages]
+
+
+Processing ContentPagesController#list (for 127.0.0.1 at 2012-11-03 21:21:10) [GET]
+  Parameters: {"action"=>"list", "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/list
+Completed in 191ms (View: 18, DB: 46) | 200 OK [http://localhost/content_pages/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:21:13) [GET]
+  Parameters: {"name"=>["setup", "menus"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/menu_items/list
+Completed in 155ms (DB: 74) | 302 Found [http://localhost/menu/setup/menus]
+
+
+Processing MenuItemsController#list (for 127.0.0.1 at 2012-11-03 21:21:13) [GET]
+  Parameters: {"action"=>"list", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering menu_items/list
+Completed in 418ms (View: 168, DB: 82) | 200 OK [http://localhost/menu_items/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:21:44) [GET]
+  Parameters: {"name"=>["profile"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/profile/edit
+Completed in 387ms (DB: 100) | 302 Found [http://localhost/menu/profile]
+
+
+Processing ProfileController#edit (for 127.0.0.1 at 2012-11-03 21:21:45) [GET]
+  Parameters: {"action"=>"edit", "controller"=>"profile"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering profile/edit
+Completed in 250ms (View: 42, DB: 69) | 200 OK [http://localhost/profile/edit]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:21:47) [GET]
+  Parameters: {"name"=>["credits"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/credits
+Completed in 218ms (DB: 76) | 302 Found [http://localhost/menu/credits]
+
+
+Processing ContentPagesController#view (for 127.0.0.1 at 2012-11-03 21:21:48) [GET]
+  Parameters: {"action"=>"view", "page_name"=>["credits"], "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Page: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view
+Completed in 275ms (View: 28, DB: 81) | 200 OK [http://localhost/credits]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:21:51) [GET]
+  Parameters: {"name"=>["Statistical Test"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/statistics/list_surveys
+Completed in 189ms (DB: 69) | 302 Found [http://localhost/menu/Statistical%20Test]
+
+
+Processing StatisticsController#list_surveys (for 127.0.0.1 at 2012-11-03 21:21:52) [GET]
+  Parameters: {"action"=>"list_surveys", "controller"=>"statistics"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+
+NoMethodError (undefined method `find_all_by_type_id' for #<Class:0xd724658>):
+  app/controllers/statistics_controller.rb:3:in `list_surveys'
+  C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/rack.rb:27:in `call'
+  C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/user_informer.rb:12:in `call'
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:21:56) [GET]
+  Parameters: {"name"=>["manage", "questionnaires", "review rubrics"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/goto_review_rubrics
+Completed in 230ms (DB: 84) | 302 Found [http://localhost/menu/manage/questionnaires/review%20rubrics]
+
+
+Processing TreeDisplayController#goto_review_rubrics (for 127.0.0.1 at 2012-11-03 21:21:56) [GET]
+  Parameters: {"action"=>"goto_review_rubrics", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/list
+Completed in 236ms (DB: 99) | 302 Found [http://localhost/tree_display/goto_review_rubrics]
+
+
+Processing TreeDisplayController#list (for 127.0.0.1 at 2012-11-03 21:21:57) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 458ms (View: 99, DB: 170) | 200 OK [http://localhost/tree_display/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:22:00) [GET]
+  Parameters: {"name"=>["manage", "questionnaires", "metareview rubrics"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/goto_metareview_rubrics
+Completed in 153ms (DB: 60) | 302 Found [http://localhost/menu/manage/questionnaires/metareview%20rubrics]
+
+
+Processing TreeDisplayController#goto_metareview_rubrics (for 127.0.0.1 at 2012-11-03 21:22:01) [GET]
+  Parameters: {"action"=>"goto_metareview_rubrics", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/list
+Completed in 280ms (DB: 113) | 302 Found [http://localhost/tree_display/goto_metareview_rubrics]
+
+
+Processing TreeDisplayController#list (for 127.0.0.1 at 2012-11-03 21:22:01) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 321ms (View: 16, DB: 104) | 200 OK [http://localhost/tree_display/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:22:08) [GET]
+  Parameters: {"name"=>["manage", "assignments"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/goto_assignments
+Completed in 225ms (DB: 80) | 302 Found [http://localhost/menu/manage/assignments]
+
+
+Processing TreeDisplayController#goto_assignments (for 127.0.0.1 at 2012-11-03 21:22:08) [GET]
+  Parameters: {"action"=>"goto_assignments", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/list
+Completed in 387ms (DB: 102) | 302 Found [http://localhost/tree_display/goto_assignments]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:22:10) [GET]
+  Parameters: {"name"=>["impersonate"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/impersonate/start
+Completed in 224ms (DB: 84) | 302 Found [http://localhost/menu/impersonate]
+
+
+Processing ImpersonateController#start (for 127.0.0.1 at 2012-11-03 21:22:10) [GET]
+  Parameters: {"action"=>"start", "controller"=>"impersonate"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering impersonate/start
+Completed in 192ms (View: 19, DB: 43) | 200 OK [http://localhost/impersonate/start]
+
+
+Processing ImpersonateController#impersonate (for 127.0.0.1 at 2012-11-03 21:22:17) [POST]
+  Parameters: {"action"=>"impersonate", "authenticity_token"=>"UTb6XRT10d9iyNJV4SZ2flYVub37GUSIbcc3wV3k8eY=", "controller"=>"impersonate", "user"=>{"name"=>"usridha"}}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/impersonate/start
+Completed in 296ms (DB: 72) | 302 Found [http://localhost/impersonate/impersonate]
+
+
+Processing ImpersonateController#start (for 127.0.0.1 at 2012-11-03 21:22:18) [GET]
+  Parameters: {"action"=>"start", "controller"=>"impersonate"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering impersonate/start
+Completed in 320ms (View: 96, DB: 89) | 200 OK [http://localhost/impersonate/start]
+
+
+Processing ImpersonateController#impersonate (for 127.0.0.1 at 2012-11-03 21:22:22) [POST]
+  Parameters: {"action"=>"impersonate", "authenticity_token"=>"UTb6XRT10d9iyNJV4SZ2flYVub37GUSIbcc3wV3k8eY=", "controller"=>"impersonate", "user"=>{"name"=>"admin"}}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Logging in user as role Credentials
+Redirected to http://localhost:3000/tree_display/drill
+Completed in 286ms (DB: 119) | 302 Found [http://localhost/impersonate/impersonate]
+
+
+Processing TreeDisplayController#drill (for 127.0.0.1 at 2012-11-03 21:22:23) [GET]
+  Parameters: {"action"=>"drill", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/list
+Completed in 243ms (DB: 88) | 302 Found [http://localhost/tree_display/drill]
+
+
+Processing TreeDisplayController#list (for 127.0.0.1 at 2012-11-03 21:22:24) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 713ms (View: 279, DB: 242) | 200 OK [http://localhost/tree_display/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:22:29) [GET]
+  Parameters: {"name"=>["home"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/home
+Completed in 144ms (DB: 58) | 302 Found [http://localhost/menu/home]
+
+
+Processing ContentPagesController#view (for 127.0.0.1 at 2012-11-03 21:22:30) [GET]
+  Parameters: {"action"=>"view", "page_name"=>["home"], "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Page: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view
+Completed in 483ms (View: 39, DB: 137) | 200 OK [http://localhost/home]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:44:03) [GET]
+  Parameters: {"name"=>["manage", "courses"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/goto_courses
+Completed in 189ms (DB: 72) | 302 Found [http://localhost/menu/manage/courses]
+
+
+Processing TreeDisplayController#goto_courses (for 127.0.0.1 at 2012-11-03 21:44:04) [GET]
+  Parameters: {"action"=>"goto_courses", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/list
+Completed in 304ms (DB: 90) | 302 Found [http://localhost/tree_display/goto_courses]
+
+
+Processing TreeDisplayController#list (for 127.0.0.1 at 2012-11-03 21:44:05) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 451ms (View: 28, DB: 190) | 200 OK [http://localhost/tree_display/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:44:13) [GET]
+  Parameters: {"name"=>["admin"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/site_admin
+Completed in 334ms (DB: 121) | 302 Found [http://localhost/menu/admin]
+
+
+Processing ContentPagesController#view (for 127.0.0.1 at 2012-11-03 21:44:14) [GET]
+  Parameters: {"action"=>"view", "page_name"=>["site_admin"], "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Page: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view
+Completed in 317ms (View: 29, DB: 102) | 200 OK [http://localhost/site_admin]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:44:22) [GET]
+  Parameters: {"name"=>["manage", "questionnaires", "course evaluations"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/goto_surveys
+Completed in 101ms (DB: 42) | 302 Found [http://localhost/menu/manage/questionnaires/course%20evaluations]
+
+
+Processing TreeDisplayController#goto_surveys (for 127.0.0.1 at 2012-11-03 21:44:22) [GET]
+  Parameters: {"action"=>"goto_surveys", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/list
+Completed in 374ms (DB: 136) | 302 Found [http://localhost/tree_display/goto_surveys]
+
+
+Processing TreeDisplayController#list (for 127.0.0.1 at 2012-11-03 21:44:23) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 340ms (View: 22, DB: 128) | 200 OK [http://localhost/tree_display/list]
+
+
+Processing ImpersonateController#impersonate (for 127.0.0.1 at 2012-11-03 21:44:40) [POST]
+  Parameters: {"commit"=>"Revert", "action"=>"impersonate", "authenticity_token"=>"UTb6XRT10d9iyNJV4SZ2flYVub37GUSIbcc3wV3k8eY=", "impersonate"=>{"name"=>""}, "controller"=>"impersonate"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Logging in user as role Credentials
+Redirected to http://localhost:3000/tree_display/drill
+Completed in 419ms (DB: 169) | 302 Found [http://localhost/impersonate/impersonate]
+
+
+Processing TreeDisplayController#drill (for 127.0.0.1 at 2012-11-03 21:44:40) [GET]
+  Parameters: {"action"=>"drill", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/list
+Completed in 216ms (DB: 64) | 302 Found [http://localhost/tree_display/drill]
+
+
+Processing TreeDisplayController#list (for 127.0.0.1 at 2012-11-03 21:44:41) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 758ms (View: 317, DB: 276) | 200 OK [http://localhost/tree_display/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:45:04) [GET]
+  Parameters: {"name"=>["student_task"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/student_task/list
+Completed in 101ms (DB: 40) | 302 Found [http://localhost/menu/student_task]
+
+
+Processing StudentTaskController#list (for 127.0.0.1 at 2012-11-03 21:45:05) [GET]
+  Parameters: {"action"=>"list", "controller"=>"student_task"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering student_task/list
+Completed in 640ms (View: 36, DB: 154) | 200 OK [http://localhost/student_task/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:45:08) [GET]
+  Parameters: {"name"=>["manage instructor content"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/drill
+Completed in 207ms (DB: 85) | 302 Found [http://localhost/menu/manage%20instructor%20content]
+
+
+Processing TreeDisplayController#drill (for 127.0.0.1 at 2012-11-03 21:45:09) [GET]
+  Parameters: {"action"=>"drill", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/list
+Completed in 172ms (DB: 67) | 302 Found [http://localhost/tree_display/drill]
+
+
+Processing TreeDisplayController#list (for 127.0.0.1 at 2012-11-03 21:45:09) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 583ms (View: 207, DB: 189) | 200 OK [http://localhost/tree_display/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:45:52) [GET]
+  Parameters: {"name"=>["Survey Deployments"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/survey_deployment/list
+Completed in 180ms (DB: 70) | 302 Found [http://localhost/menu/Survey%20Deployments]
+
+
+Processing SurveyDeploymentController#list (for 127.0.0.1 at 2012-11-03 21:45:52) [GET]
+  Parameters: {"action"=>"list", "controller"=>"survey_deployment"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering survey_deployment/list
+Completed in 257ms (View: 17, DB: 63) | 200 OK [http://localhost/survey_deployment/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:45:56) [GET]
+  Parameters: {"name"=>["setup", "roles"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/roles/list
+Completed in 193ms (DB: 74) | 302 Found [http://localhost/menu/setup/roles]
+
+
+Processing RolesController#list (for 127.0.0.1 at 2012-11-03 21:45:56) [GET]
+  Parameters: {"action"=>"list", "controller"=>"roles"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering roles/list
+Completed in 234ms (View: 21, DB: 59) | 200 OK [http://localhost/roles/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:46:04) [GET]
+  Parameters: {"name"=>["manage", "assignments"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/goto_assignments
+Completed in 186ms (DB: 71) | 302 Found [http://localhost/menu/manage/assignments]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:46:04) [GET]
+  Parameters: {"name"=>["manage", "assignments"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/goto_assignments
+Completed in 210ms (DB: 77) | 302 Found [http://localhost/menu/manage/assignments]
+
+
+Processing TreeDisplayController#goto_assignments (for 127.0.0.1 at 2012-11-03 21:46:05) [GET]
+  Parameters: {"action"=>"goto_assignments", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/list
+Completed in 137ms (DB: 55) | 302 Found [http://localhost/tree_display/goto_assignments]
+
+
+Processing TreeDisplayController#list (for 127.0.0.1 at 2012-11-03 21:46:05) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 338ms (View: 19, DB: 116) | 200 OK [http://localhost/tree_display/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:46:39) [GET]
+  Parameters: {"name"=>["manage", "questionnaires", "author feedbacks"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/goto_author_feedbacks
+Completed in 229ms (DB: 89) | 302 Found [http://localhost/menu/manage/questionnaires/author%20feedbacks]
+
+
+Processing TreeDisplayController#goto_author_feedbacks (for 127.0.0.1 at 2012-11-03 21:46:39) [GET]
+  Parameters: {"action"=>"goto_author_feedbacks", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/tree_display/list
+Completed in 316ms (DB: 124) | 302 Found [http://localhost/tree_display/goto_author_feedbacks]
+
+
+Processing TreeDisplayController#list (for 127.0.0.1 at 2012-11-03 21:46:40) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 253ms (View: 19, DB: 115) | 200 OK [http://localhost/tree_display/list]
+
+
+Processing TreeDisplayController#list (for 127.0.0.1 at 2012-11-03 21:46:45) [POST]
+  Parameters: {"commit"=>"Sort", "action"=>"list", "authenticity_token"=>"UTb6XRT10d9iyNJV4SZ2flYVub37GUSIbcc3wV3k8eY=", "display"=>{"sortvar"=>"created_at", "sortorder"=>"desc", "check"=>"0"}, "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 495ms (View: 26, DB: 191) | 200 OK [http://localhost/tree_display/list]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:46:48) [GET]
+  Parameters: {"name"=>["home"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/home
+Completed in 221ms (DB: 92) | 302 Found [http://localhost/menu/home]
+
+
+Processing ContentPagesController#view (for 127.0.0.1 at 2012-11-03 21:46:48) [GET]
+  Parameters: {"action"=>"view", "page_name"=>["home"], "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Page: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view
+Completed in 285ms (View: 24, DB: 82) | 200 OK [http://localhost/home]
+
+
+Processing MenuItemsController#link (for 127.0.0.1 at 2012-11-03 21:47:09) [GET]
+  Parameters: {"name"=>["manage", "users"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://localhost:3000/users/list
+Completed in 212ms (DB: 91) | 302 Found [http://localhost/menu/manage/users]
+
+
+Processing UsersController#list (for 127.0.0.1 at 2012-11-03 21:47:09) [GET]
+  Parameters: {"action"=>"list", "controller"=>"users"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+a
+Rendering template within layouts/application
+Rendering users/list
+Completed in 328ms (View: 35, DB: 107) | 200 OK [http://localhost/users/list]
